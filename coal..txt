@@ -1,0 +1,6 @@
+shl word [num1], 1
+ rcl word [num1+2], 1
+shr word [num1+2], 1
+ rcr word [num1], 1
+
+//  you have DQ (64 bit ) divide DQ  in in two variabe of dd   
