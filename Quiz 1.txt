@@ -1,0 +1,8 @@
+Question 1: Write a program that accepts a sequence of whitespace separated words as input and 
+prints the words after removing all duplicate words and sorting them alphanumerically.
+
+For Example: Hello world, World is round, round is globe and World is globe?. Universe has World, But World has universe? Really??, 
+		I am confused!, the World is also confused. 
+
+Question 2: Write a program which will find all such numbers which are divisible by 9 but are not a multiple of 5, between 10 and 3780  (both included).
+The numbers obtained should be printed in a comma-separated sequence on a single line.
